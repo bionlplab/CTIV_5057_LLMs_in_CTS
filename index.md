@@ -1,7 +1,7 @@
 **Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))<br>
 **Time**: Jan. 26, 2026 - April 7, 2026, 3:30-4:45 pm East Time on Mondays<br>
 **Grading**: Honors/High Pass/Pass/Fail<br>
-**TA**: Haotian Ma <ham7026@med.cornell.edu>
+**TA**: TBD
 
 ### Course Aims and Outcomes
 
